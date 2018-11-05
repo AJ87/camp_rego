@@ -1,0 +1,14 @@
+{
+    "name": "SMAD_SAPUI5",
+    "version": "2.0.0",
+    "dependencies": {
+        "mongodb": "^2.2.31",
+        "nodemailer": "^4.1.0"
+    },
+    "description": "SMAD holiday program registration site",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/AJ87/SMAD_OpenUI5.git"
+    },
+    "license": "Apache-2.0"
+}
